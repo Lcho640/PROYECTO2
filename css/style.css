@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(0, 0, 0, 0.800);
+    text-align: justify;
+    font-family: Comic Sans MS;
+}
+
+.imagen{
+    line-height: 335px;
+    filter: brightness(0.5);
+}
+ 
+.navegador_web{
+    color: white;
+    font-size: 23px;
+    margin: 80px;
+}
+
+.parrafo{
+    color: white;
+    font-size: 19px;
+}
