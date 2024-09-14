@@ -4,10 +4,6 @@ body{
     font-family: Comic Sans MS;
 }
 
-.body-1{
-    background-color: white;
-}
-
 .recuadro {
     background-color: #b4afb06b;
     color: white;
@@ -84,8 +80,16 @@ nav ul {
     background-color: #000000;
 }
 
+nav table tr td a{
+    color: white;
+    margin-left: 20px;
+    font-size: 25px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
 /*TITULOS*/
-.titulos{
+.navegador{
     color: white;
     font-size: 23px;
     margin: 80px;
@@ -102,6 +106,16 @@ nav ul {
     color: white;
     font-size: 23px;
     margin: 50px;
+}
+
+.historia{
+    margin: 80px;
+    font-size: 20px;
+    
+}
+
+.titulos{
+    line-height: 190px;
 }
 
 /* PARAFOS*/
@@ -131,6 +145,29 @@ nav ul {
     width: 400px;
 }
 
+.img_computadora{
+    float: right;
+    width: 70%;
+    width: 370px;
+    margin-left: 60px;
+    margin-right: 30px;
+}
+
+.img_era_web{
+    float: right;
+    width: 70%;
+    width: 370px;
+    margin-left: 60px;
+    margin-right: 30px;
+}
+
+.guerra{
+    float: right;
+    width: 70%;
+    width: 370px;
+    margin-left: 60px;
+    margin-right: 30px;
+}
 
 .img_nav{
     float: right;
